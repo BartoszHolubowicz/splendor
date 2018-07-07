@@ -1,0 +1,1 @@
+Zagrać można [tutaj](https://bartoszholubowicz.github.io/splendor/).
